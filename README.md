@@ -10,7 +10,7 @@ This project demonstrates core concepts used in compilers and interpreters such 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Supports operators: `+  -  *  /  ^`
 - Supports parentheses: `( )`
@@ -21,7 +21,7 @@ This project demonstrates core concepts used in compilers and interpreters such 
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - **Tokenizing and String Processing**
 - **Parsing Expressions**
@@ -32,7 +32,7 @@ This project demonstrates core concepts used in compilers and interpreters such 
 
 ---
 
-## 📌 Example Inputs
+##  Example Inputs
 
 | Expression | Result |
 |-----------|--------|
@@ -43,7 +43,7 @@ This project demonstrates core concepts used in compilers and interpreters such 
 
 ---
 
-## 🛠️ How It Works
+##  How It Works
 
 ### Step 1: Tokenizing
 Input:  
@@ -61,7 +61,7 @@ Final Result: `14`
 
 ---
 
-## ▶️ Run the Program
+##  Run the Program
 
 ### Clone the Repository
 ```bash
