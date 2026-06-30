@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expression Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Expression Calculator</h1>
+        <p>Supports +, -, *, /, ^ and parentheses</p>
+
+        <input
+            type="text"
+            id="expression"
+            placeholder="Example: (2+3)*4^2"
+        >
+
+        <div class="buttons">
+            <button onclick="calculate()">Calculate</button>
+            <button onclick="clearInput()">Clear</button>
+        </div>
+
+        <div class="output">
+            <h3>Result</h3>
+            <p id="result">0</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
